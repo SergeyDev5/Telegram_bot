@@ -1,1 +1,1 @@
-Telegram bot written on Python that convert Telegram voice message to text message.
+Telegram bot written on Python that convert voice message to text message.
